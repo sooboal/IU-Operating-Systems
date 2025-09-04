@@ -1,2 +1,2 @@
 # Example 3
-Follow the instructions in the slides
+Follow the instructions in the slides...
