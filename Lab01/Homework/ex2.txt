@@ -1,0 +1,60 @@
+   62  head 3 namelist
+   63  head --help
+   64  head -n 3 namelist
+   65  head -n 1 namelist
+   66  man -h
+   67  man -h -  head
+   68  man -h -- head
+   69  man -h head
+   70  head -n 10 man -n
+   71  head -n 10 man --help
+   72  head -n 2 man --help
+   73  clear
+   74  grep "leks" namelist
+   75  ls > list.txt
+   76  ls
+   77  grep --help
+   78  grep -f "task" /proc > output.txt 2> errors.txt
+   79  ls -R /proc | grep task > output.txt 2> errors.txt
+   80  pwd
+   81  mkdir "OS_Labs"
+   82  ls
+   83  mv errors.txt ~/Desktop/OS_Labs
+   84  mv output.txt ~/Desktop/OS_Labs
+   85  mv namelist ~/Desktop/OS_Labs
+   86  mv namelist.sorted ~/Desktop/OS_Labs
+   87  cd OS_Labs/
+   88  cd lab.1/
+   89  ls la
+   90  ls a
+   91  ls -la
+   92  cat namelist
+   93  cat namelist.sorted 
+   94  gedit namelist
+   95  sudo snap install gedit  # version 48.1
+   96  gedit namelist
+   97  cd ~/week01
+   98  md --help
+   99  mv --help
+  100  clear
+  101  ls --help
+  102  grep --help
+  103  ls -r /usr/bin | grep -f "*gcc*" > "∼/week01/ex1.txt"
+  104  cd week01
+  105  cd ~
+  106* cd 
+  107  ls -r /usr/bin | grep -f "*gcc*" > "∼/week01/ex1.txt"
+  108  ls -r /usr/bin | grep -f "*gcc*" > ex1.txt
+  109  ls -r /usr/bin | grep -f "*gcc*" | ex1.txt
+  110  ls -r /usr/bin | grep -f "*gcc*" > ex1.txt
+  111  cd ~
+  112  cd vscode/
+  113  cd IU-Operating-Systems/
+  114  cd Lab01/
+  115  Homework/
+  116  cd Homework/
+  117  ls /usr/bin | grep gcc | sort -r |tail -n 5 > ex1.txt
+  118  touch command
+  119  hisotry
+  120  history
+  121  history | tail -n 60 > ex2.txt
