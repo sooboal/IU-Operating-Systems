@@ -3,7 +3,7 @@
 # Useful flags to know for ls:
 # l: longer format with more infor
 # lt: sort by file modification time
-# la: show hidden files
+# la: show hidden files in longer format
 # ltr: sort by file modification time in reverse
 # lu: sort by access time
 # lc: sort by change time(inode)
