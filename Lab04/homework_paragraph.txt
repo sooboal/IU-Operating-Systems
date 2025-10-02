@@ -1,0 +1,2 @@
+So, I wrote a program and thought that if I put n == 120, it will be very fast. But as well as I figure out, forking is difficult process and takes some time. Also we have only 1 file to store the data and OS cannot change file in some procceses simultaneosly. So, as bigger n, as bigger time to count dot product. The best time always when n == 1.
+As well as I understand, forking is not good idea for small tasks.

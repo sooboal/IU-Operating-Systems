@@ -8,7 +8,7 @@ touch folder1/root.txt
 date
 sleep 3
 touch folder2/home.txt
-ls -l / | sort -k6,8 > folder1/root.txt
+ls -l / | sort -k6,8 > folder1/root.txt 
 ls -l ~ | sort -k6,8 > folder2/home.txt
 echo "------------------"
 echo "root.txt info:"
